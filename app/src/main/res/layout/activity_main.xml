@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="12dp">
+
+    <com.magical.view.MagicalTextView
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:text="Hello World!" />
+
+    <com.magical.view.MagicalTextView
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Hello World!"
+        app:frameColor="#ff0000" />
+
+    <com.magical.view.MagicalTextView
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Hello World!"
+        app:frameColor="#ff0000"
+        app:bgColor="#3F51B5"/>
+
+    <com.magical.view.MagicalTextView
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Hello World!"
+        app:frameColor="#ff0000"
+        app:frameWidth="5dp" />
+
+    <com.magical.view.MagicalTextView
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Hello World!"
+        app:fillet="4dp"
+        app:frameColor="#3F51B5"
+        app:frameWidth="1dp" />
+
+    <com.magical.view.MagicalTextView
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Hello World!"
+        app:fillet="4dp"
+        app:frameColor="#ff0000"
+        app:frameWidth="1dp"
+        app:leftTopFillet="4dp"
+        app:rightTopFillet="12dp" />
+
+    <com.magical.view.MagicalTextView
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Hello World!"
+        app:frameColor="#ff0000"
+        app:frameWidth="1dp"
+        app:leftBottomFillet="4dp"
+        app:leftTopFillet="4dp"
+        app:rightBottomFillet="4dp"
+        app:rightTopFillet="4dp" />
+
+    <com.magical.view.MagicalTextView
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Hello World!"
+        app:frameColor="#ff0000"
+        app:frameWidth="1dp"
+        app:leftTopFillet="4dp"
+        app:rightTopFillet="12dp" />
+
+    <com.magical.view.MagicalTextView
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Hello World!"
+        app:frameColor="#ff0000"
+        app:frameWidth="1dp"
+        app:leftTopFillet="4dp"
+        app:rightBottomFillet="8dp"
+        app:rightTopFillet="12dp" />
+</LinearLayout>

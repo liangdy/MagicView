@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MagicalTextView">
+        <attr name="fillet" format="dimension" />
+        <attr name="leftTopFillet" format="dimension" />
+        <attr name="leftBottomFillet" format="dimension" />
+        <attr name="rightTopFillet" format="dimension" />
+        <attr name="rightBottomFillet" format="dimension" />
+        <attr name="frameWidth" format="dimension" />
+        <attr name="bgColor" format="color" />
+        <attr name="frameColor" format="color" />
+    </declare-styleable>
+
+</resources>
