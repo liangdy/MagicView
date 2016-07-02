@@ -1,5 +1,3 @@
-A Magical View for TextView
-一个神奇的TextView 再也不用担心TextView加圆角、边缘线和添加点击效果很麻烦了
-----------
-未完待续
-----------
+自定义TextView、LineayLayout:实现添加圆角、边缘线、点击态等效果。再也不用写蛋疼的selector和drawable啦
+
+若需要其他布局，则将继承LineayLayout换成指定Layout即可。
