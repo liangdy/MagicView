@@ -10,6 +10,15 @@
         <attr name="frameWidth" format="dimension" />
         <attr name="bgColor" format="color" />
         <attr name="frameColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="MagicalBtnView">
+        <attr name="rounded" format="dimension" />
+        <attr name="leftTopRounded" format="dimension" />
+        <attr name="leftBottomRounded" format="dimension" />
+        <attr name="rightTopRounded" format="dimension" />
+        <attr name="rightBottomRounded" format="dimension" />
+        <attr name="defaultColor" format="color" />
         <attr name="pressedColor" format="color" />
     </declare-styleable>
 

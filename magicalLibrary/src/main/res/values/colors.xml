@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="default_normal_color">#999999</color>
+    <color name="default_pressed_color">#a2a2a2</color>
+
+</resources>

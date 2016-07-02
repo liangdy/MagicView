@@ -26,8 +26,8 @@
         android:layout_marginTop="10dp"
         android:gravity="center"
         android:text="Hello World!"
-        app:frameColor="#ff0000"
-        app:bgColor="#3F51B5"/>
+        app:bgColor="#3F51B5"
+        app:frameColor="#ff0000" />
 
     <com.magical.view.MagicalTextView
         android:layout_width="120dp"
