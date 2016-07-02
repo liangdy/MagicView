@@ -95,6 +95,26 @@ public class MagicalTextView extends TextView {
         invalidate();
     }
 
+    public void setLeftTopFillet(float leftTopFillet) {
+        this.leftTopFillet = leftTopFillet;
+        invalidate();
+    }
+
+    public void setLeftBottomFillet(float leftBottomFillet) {
+        this.leftBottomFillet = leftBottomFillet;
+        invalidate();
+    }
+
+    public void setRightTopFillet(float rightTopFillet) {
+        this.rightTopFillet = rightTopFillet;
+        invalidate();
+    }
+
+    public void setRightBottomFillet(float rightBottomFillet) {
+        this.rightBottomFillet = rightBottomFillet;
+        invalidate();
+    }
+
     public void setBgColor(int bgColor) {
         this.bgColor = bgColor;
         invalidate();
@@ -153,4 +173,5 @@ public class MagicalTextView extends TextView {
             }
         }
     }
+
 }

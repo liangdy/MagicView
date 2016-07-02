@@ -10,6 +10,7 @@
         <attr name="frameWidth" format="dimension" />
         <attr name="bgColor" format="color" />
         <attr name="frameColor" format="color" />
+        <attr name="pressedColor" format="color" />
     </declare-styleable>
 
 </resources>
